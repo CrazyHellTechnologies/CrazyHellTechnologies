@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-hans" class="font-auto">
+<head>
+<meta property="og:description" content="Welcome to N3RDP0RT4L HQ" />
+    <meta charset="UTF-8">
+    <title>N3RDP0RT4L HQ</title>
+    <link href="icon.png" rel="icon" sizes="192x192"/>
+    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1"/>
+    <link href="https://cdn.jsdelivr.net/gh/Dreamer-Paul/Kico-Style/kico.css" rel="stylesheet" type="text/css"/>
+    <link href="moeta.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<header>
+    <div class="moeta-name">
+        <h1>N3RDP0RT4L HQ</h1>
+        <p>N3RDP0RT4L Dragon Leader | AugustusXVIII</p>
+    </div>
+</header>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="tos.html">TOS</a></li>
+  </ul>
+</nav>
+<main>
+<h2>N3RDPORT4L TOS：</h2>
+ <p><strong>
+N3RDP0RT4L is a thriving semi-gated technology community that has brought the SM-T380 to the world of LineageOS, iShitOS, and the ongoing codename "enuma" project. We look forward to you're membership. As a technology community, we have a strict set of guidelines you agree to when using any N3RDPORT4L platform and/or service. Thank you.</p></center>
+<p>🔸Doxing is the practice of leaking private information to the public, and is strictly forbidden under any circumstances. Doxers, skids, scriptkiddies, blackhat's, and socially maniuplalative people will NEVER be allowed.</p>
+<p>🔸Dating, the selling of parafrenia, and other haness acts are NOT and WILL NEVER be allowed on any N3RDPORT4L service.<p>
+<p>🔸The N3RDP0RT4L services only allows NSFW content only in the proper NSFW channel respectively.</p>
+<p>🔸Don't be a dick. We all want to be a productive community, and we will NOT tolerate people who want to troll, or harrass others.</p>
+<p>🔸Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.</p>
+<p>🔸No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.</p>
+<p>🔸No age-restricted or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.</p>
+<p>🔸If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space.</p>
+<p>🔸Remember to treat developers civilly, N3RDP0RT4L is the product of many users who invest their free time.</p>
+<p>🔸Do not use the @everyone tag.</p>
+<p>🔸Avoid to tag people from the staff. The moderation bot will warn you if you tag too many people in general.</p>
+<p>🔸Contents and profile images that promote bigotry are not allowed.</p>
+</strong></p>
+    <h2>Join our scene：</h2>
+    <p>Don't forget to checkout the N3RDP0RT4L HQ Discord.</p>
+    <p><a href="#"> <img src="icon.png"/>
+</main>
+<footer>
+    <p>© <span id="year">20??</span> <a href="#">N3RDP0RT4L</a>! All Rights Reserved.</p>
+    <p>Made By <a href="https://forum.xda-developers.com/m/mattfromspace727.12477177/" target="_blank">SATAN</a>! Hosted By <a href="http://satan.surge.sh" target="_blank">Satanic Wizardry</a>!</p>
+</footer>
+<script>
+    let year = document.getElementById("year");
+    year.innerHTML = new Date().getFullYear();
+</script>
+</body>
+</html>
