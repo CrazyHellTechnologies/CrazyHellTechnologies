@@ -1,7 +1,5 @@
-## 💻 FREEDOM-HQ Website Repository</br>
+## 💻 FREEDOM-HQ Website Repository <img align="right" src="https://komarev.com/ghpvc/?username=FREEDOM-HQ" /></br>
 <img align="center" src="https://freedom-hq.github.io/FREEDOM-HQ/tenor.gif" /></br>
-<img align="right" src="https://komarev.com/ghpvc/?username=FREEDOM-HQ" />
-
 Welcome to the FREEDOM headquarters operating on the planet Kepler-186F!
 
 We're a development group focusing on Linux, Android, and the DSiPaint archival process. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
