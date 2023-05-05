@@ -1,5 +1,6 @@
 ## 💻 FREEDOM-HQ Website Repository</br>
 <img align="center" src="https://freedom-hq.github.io/FREEDOM-HQ/tenor.gif" /></br>
+<img align="right" src="https://komarev.com/ghpvc/?username=FREEDOM-HQ" />
 
 Welcome to the FREEDOM headquarters operating on the planet Kepler-186F!
 
