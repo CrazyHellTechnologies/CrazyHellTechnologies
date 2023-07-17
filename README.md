@@ -2,7 +2,7 @@
 <img align="center" src="https://freedom-hq.github.io/FREEDOM-HQ/tenor.gif" /></br>
 Welcome to the FREEDOM headquarters operating on the planet Kepler-186F!
 
-We're a development group focusing on Linux, Android, and the DSiPaint archival process. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
+We're a development group focusing on Linux, and Android. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
 
 We also hope you can all stick around for the exciting future of the inclusive FREEDOM-HQ scene.
 
