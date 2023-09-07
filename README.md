@@ -15,5 +15,4 @@ We also hope you can all stick around for the exciting future of the inclusive s
 You can check our our websites below for more information.
 
 https://CrazyHellTechnologies.github.io/CrazyHellTechnologies/
-
 https://github.com/CrazyHellTechnologies/
