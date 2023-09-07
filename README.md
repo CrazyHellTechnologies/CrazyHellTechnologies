@@ -1,4 +1,4 @@
-## 💻 CrazyHellTechnologies Website Repository <img align="right" src="https://komarev.com/ghpvc/?username=FREEDOM-HQ" /></br>
+## 💻 CrazyHellTechnologies Website Repository <img align="right" src="https://komarev.com/ghpvc/?username=CrazyHellTechnologies" /></br>
 <img align="center" src="https://CrazyHellTechnologies.github.io/CrazyHellTechnologies/tenor.gif" /></br>
 Welcome to the CrazyHellTechnologies headquarters operating on the planet Kepler-186F!
 
@@ -12,6 +12,8 @@ We also hope you can all stick around for the exciting future of the inclusive s
 - 🌐 We have our own website.
 - 🐧 Fun fact: Our founder likes Linux.
 
-You can check our our websites below for more information.<br>
-https://CrazyHellTechnologies.github.io/CrazyHellTechnologies/<br>
+You can check our our websites below for more information.
+
+https://CrazyHellTechnologies.github.io/CrazyHellTechnologies/
+
 https://github.com/CrazyHellTechnologies/
