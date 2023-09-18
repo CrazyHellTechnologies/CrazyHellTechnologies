@@ -15,3 +15,5 @@ We also hope you can all stick around for the exciting future of the inclusive s
 Major rework is coming today.
 
 You can check our our website below for more information.
+
+https://cht.venith.net
