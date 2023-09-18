@@ -1,4 +1,4 @@
-## 💻 CrazyHellTechnologies Website Repository <img align="right" src="https://komarev.com/ghpvc/?username=CrazyHellTechnologies" /></br>
+## 💻 CrazyHellTechnologies Website <img align="right" src="https://komarev.com/ghpvc/?username=CrazyHellTechnologies" /></br>
 <img align="center" src="https://CrazyHellTechnologies.github.io/CrazyHellTechnologies/tenor.gif" /></br>
 Welcome to the CrazyHellTechnologies headquarters operating on the planet Kepler-186F!
 
