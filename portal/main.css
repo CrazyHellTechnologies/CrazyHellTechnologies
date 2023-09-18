@@ -1,5 +1,5 @@
 * {font-family:"sans-serif", "Arial", "monospace"!important;word-wrap:break-word!important;}
-*, a, button, body { cursor: url('../Media/cursor.png'), auto!important;	}
+*, a, button, body { cursor: url('assets/cursor.png'), auto!important;	}
 body {background-color:rgb(0, 0, 0);margin:0px;color:white!important;font-size:12px!important;}
 
 .con {max-width:800px;margin:0px auto;}
@@ -16,5 +16,5 @@ a:hover {background-color:black!important;color:rgb(19, 235, 170)!important;}
 [id]:target {display:block}
 
 IMG {max-width:100%;height:auto}
-IMG[src="../Media/Vlogo.png"] {width:42px;float:left}
+IMG[src="assets/Vlogo.png"] {width:42px;float:left}
 audio {width:99%}
