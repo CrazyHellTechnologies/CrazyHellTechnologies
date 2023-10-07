@@ -3,10 +3,11 @@ body {background-color:black;background-image:url(/assets/CHT-BG.gif);color:whit
 div.content {max-width:500px;margin:0px;float:right;}
 div.head {background:rgba(0,0,0,.5);padding:2em 3em;font-size:21px;}
 div.nav {background:#333;color:white!important;text-align:center;padding:5px 0px;}
-div.text {background:rgba(0,0,0,.5);text-align:center;}
-div.footer {background:black;}
+div.text {background:rgba(0,0,0,.5);text-align:center;font-size:}
+div.footer {background:black;font-size:10px}
 
-div.text h2:before{content:'';height:100%;width:.5rem;left:-1.5rem;background:#EE4B2B;position:absolute;}
+/* BROKEN CSS:
+div.text h2:before{content:'';height:100%;width:.5rem;left:-1.5rem;background:#EE4B2B;position:absolute;} */
 div.nav a:hover {background-color:white;color:black!important}
 
 a {color:red;}
