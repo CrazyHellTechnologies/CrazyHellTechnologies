@@ -2,7 +2,7 @@ body {background-color:black;background-image:url(/assets/CHT-BG.gif);color:whit
 
 div.content {max-width:500px;margin:0px;float:right;}
 div.head {background:rgba(0,0,0,.5);padding:2em 3em;font-size:21px;}
-div.nav {background:#333;color:white!important;text-align:center;}
+div.nav {background:#333;color:white!important;text-align:center;padding:5px 0px;}
 div.text {background:rgba(0,0,0,.5);text-align:center;}
 div.footer {background:black;}
 
