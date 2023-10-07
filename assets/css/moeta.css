@@ -38,7 +38,7 @@ body{
     float: right;
     padding: 1.5em;
     max-width: 35em;
-    background: url(https://cht.venith.net/assets/images/bg.gif) center center/cover fixed no-repeat;
+    background: url(/assets/images/bg.gif) center center/cover fixed no-repeat;
 }
 header{
     text-align: right;
