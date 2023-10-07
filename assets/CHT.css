@@ -8,9 +8,9 @@ div.footer {background:black;font-size:10px}
 
 /* BROKEN CSS:
 div.text h2:before{content:'';height:100%;width:.5rem;left:-1.5rem;background:#EE4B2B;position:absolute;} */
-div.nav a:hover {background-color:white;color:black!important}
+div.nav a:hover {background-color:white!important;color:black!important}
 
 a {color:red;}
-a:hover {background:red!important;color:white;}
+a:hover {background:red;color:white;}
 
 IMG {max-width:99%;height:auto;}
