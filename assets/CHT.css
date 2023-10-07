@@ -10,3 +10,5 @@ div.nav a {background-color:white;color:black!important}
 
 a {color:red;}
 a:hover {background:red!important;color:white;}
+
+IMG {max-width:99%;height:auto;}
